@@ -107,8 +107,17 @@ body {
   font-size: 32px;
   opacity: 1;
   text-align: left;
-  border: 1px solid rgb(128, 112, 112);
+
+
 }
+.v3_10 {
+  top: 429px;
+  left: 100px;
+  width: 447px;
+  height: 538px;
+  position: absolute;
+}
+
 .v10_2 {
   width: 289px;
   color: rgba(0,0,0,0.5899999737739563);
@@ -241,6 +250,16 @@ body {
   top: 19px;
   left: 1390px;
   overflow: hidden;
+}
+.v4_3t6 {
+  top: 34.324256896972656px;
+  left: 1400px;
+  width: 48px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
 }
 .v4_37 {
   width: 379px;
@@ -653,14 +672,13 @@ body {
   overflow: hidden;
 }
 .v16_38 {
-  width: 54px;
-  height: 54px;
-  background: rgba(255,255,255,1);
+  width: 20px;
+  height: 20px;
   opacity: 1;
   position: absolute;
   top: 3163px;
   left: 1007px;
-  overflow: hidden;
+  
 }
 .v16_39 {
   width: 54px;

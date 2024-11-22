@@ -1,0 +1,965 @@
+.desktop4-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop4-desktop4 {
+  width: 100%;
+  height: 3331px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(242, 242, 242, 1);
+}
+.desktop4-rectangle1 {
+  top: 2px;
+  left: 0px;
+  width: 1440px;
+  height: 98px;
+  position: absolute;
+}
+.desktop4-text10 {
+  top: 30px;
+  left: 549px;
+  color: rgb(0, 0, 0);
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text11 {
+  color: #000000;
+}
+.desktop4-text12 {
+  color: #ccff00;
+}
+.desktop4-ellipse1 {
+  top: 389px;
+  left: 0px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.desktop4-ellipse2 {
+  top: 389px;
+  left: 1379px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.desktop4-arrow1 {
+  top: 415px;
+  left: 69px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.desktop4-arrow2 {
+  top: 414px;
+  left: 1425px;
+  width: 61px;
+  height: 1px;
+  position: absolute;
+}
+.desktop4-rectangle2 {
+  top: 939px;
+  left: 55px;
+  width: 429px;
+  height: 59px;
+  position: absolute;
+}
+.desktop4-rectangle261 {
+  top: 939px;
+  left: 508px;
+  width: 429px;
+  height: 59px;
+  position: absolute;
+}
+.desktop4-rectangle27 {
+  top: 939px;
+  left: 957px;
+  width: 429px;
+  height: 59px;
+  position: absolute;
+}
+.desktop4-text13 {
+  top: 948px;
+  left: 172px;
+  color: rgba(80, 49, 49, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text14 {
+  top: 949px;
+  left: 1075px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text15 {
+  top: 948px;
+  left: 670px;
+  color: rgba(80, 49, 49, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-rectangle5 {
+  top: 1072px;
+  left: 25px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-rectangle6 {
+  top: 1072px;
+  left: 381px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-rectangle7 {
+  top: 1072px;
+  left: 739px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-rectangle8 {
+  top: 1072px;
+  left: 1094px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-text16 {
+  top: 869px;
+  left: 558px;
+  color: rgba(0, 0, 0, 1);
+  width: 399px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-rectangle9 {
+  top: 22px;
+  left: 1355px;
+  width: 70px;
+  height: 70px;
+  position: absolute;
+}
+.desktop4-rectangle11 {
+  top: 1451px;
+  left: 25px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-rectangle14 {
+  top: 1451px;
+  left: 1094px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-rectangle12 {
+  top: 1452px;
+  left: 382px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-rectangle13 {
+  top: 1451px;
+  left: 739px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-text17 {
+  top: 1464px;
+  left: 75px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text18 {
+  top: 1464px;
+  left: 437px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text19 {
+  top: 1464px;
+  left: 793px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text20 {
+  top: 1464px;
+  left: 1149px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text21 {
+  top: 1396px;
+  left: 61px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text25 {
+  top: 1417px;
+  left: 411px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text26 {
+  top: 1414px;
+  left: 1180px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-rectangle15 {
+  top: 2690px;
+  left: 0px;
+  width: 1446px;
+  height: 654px;
+  position: absolute;
+}
+.desktop4-text27 {
+  left: 40px;
+  color: rgb(255, 255, 255);
+  width: 580px;
+  bottom: 213px;
+  height: auto;
+  position: absolute;
+  font-size: 17px;
+  font-style: Black;
+  text-align: justify;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text33 {
+  top: 2729px;
+  left: 36px;
+  color: rgb(255, 255, 255);
+  width: 427px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Impact";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-clientespotencialesdeungimnasioquebuscanyquienesso {
+  right: 106px;
+  width: 626px;
+  bottom: 119px;
+  height: 501px;
+  position: absolute;
+}
+.desktop4-symbolsvg {
+  top: 3255px;
+  left: 1077px;
+  width: 55px;
+  height: 54px;
+  position: absolute;
+}
+.desktop4-group1 {
+  top: 3255px;
+  left: 1172px;
+  width: 54.60419464111328px;
+  height: 55.78774642944336px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-vector10 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 56px;
+  position: absolute;
+}
+.desktop4-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 56px;
+  position: absolute;
+}
+.desktop4-vector12 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 56px;
+  position: absolute;
+}
+.desktop4-vector13 {
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 56px;
+  position: absolute;
+}
+.desktop4-vector14 {
+  top: 7.163096904754639px;
+  left: 7.009197235107422px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+}
+.desktop4-text34 {
+  top: 3218px;
+  left: 1089px;
+  color: rgba(255, 255, 255, 1);
+  width: 110px;
+  height: auto;
+  position: absolute;
+  font-size: 19px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-crossed-dumbbells-silhouette-fitness-club-black-minimali {
+  top: 3212px;
+  left: 33px;
+  width: 99px;
+  height: 72px;
+  position: absolute;
+}
+.desktop4-rectangle16 {
+  top: 3284px;
+  left: 33px;
+  width: 99px;
+  height: 28px;
+  position: absolute;
+}
+.desktop4-text35 {
+  top: 3263px;
+  left: 147px;
+  color: rgba(255, 255, 255, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text39 {
+  top: 3216px;
+  left: 579px;
+  color: rgba(204, 255, 0, 1);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text40 {
+  top: 3244px;
+  left: 579px;
+  color: rgb(255, 255, 255);
+  width: 137px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text45 {
+  top: 3244px;
+  left: 738px;
+  color: rgb(255, 255, 255);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-frameiconsearchoutline {
+  top: 42.45668411254883px;
+  left: 990px;
+  width: 28px;
+  height: 27.89387321472168px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-group2 {
+  top: 0px;
+  left: 0px;
+  width: 28px;
+  height: 27.89387321472168px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 23px;
+  height: 23px;
+  position: absolute;
+}
+.desktop4-vector16 {
+  top: 19.92452049255371px;
+  left: 20.000537872314453px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.desktop4-frameiconcart {
+  top: 34.324256896972656px;
+  left: 1364px;
+  width: 48px;
+  height: 49px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop4-vector17 {
+  top: 40.83332824707031px;
+  left: 12.49462890625px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.desktop4-vector18 {
+  top: 40.83332824707031px;
+  left: 37.4833984375px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.desktop4-vector19 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 39px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at82425am1 {
+  top: 104px;
+  left: 0px;
+  width: 1440px;
+  height: 750px;
+  position: absolute;
+}
+.desktop4-text52 {
+  top: 39px;
+  left: 57px;
+  color: rgba(0, 0, 0, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text53 {
+  top: 39px;
+  left: 256px;
+  color: rgba(0, 0, 0, 1);
+  width: 231px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-whats-app-image20241110at84831am1removebgpreview1 {
+  top: 1084px;
+  left: 70px;
+  width: 241px;
+  height: 317px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at84831a-mremovebgpreview1 {
+  top: 1072px;
+  left: 395px;
+  width: 275px;
+  height: 353px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at84831am2removebgpreview11 {
+  top: 1072px;
+  left: 787px;
+  width: 218px;
+  height: 365px;
+  position: absolute;
+}
+.desktop4-text54 {
+  top: 1414px;
+  left: 758px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-rectangle18 {
+  top: 1564px;
+  left: 23px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-rectangle19 {
+  top: 1564px;
+  left: 379px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-rectangle20 {
+  top: 1564px;
+  left: 737px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-rectangle21 {
+  top: 1564px;
+  left: 1092px;
+  width: 324px;
+  height: 443px;
+  position: absolute;
+}
+.desktop4-text55 {
+  top: 1903px;
+  left: 784px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text56 {
+  top: 1907px;
+  left: 401px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text57 {
+  top: 1907px;
+  left: 80px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text58 {
+  top: 1899px;
+  left: 1135px;
+  color: rgba(242, 242, 242, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-rectangle22 {
+  top: 1943px;
+  left: 23px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-rectangle23 {
+  top: 1943px;
+  left: 737px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-rectangle24 {
+  top: 1943px;
+  left: 1092px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-rectangle25 {
+  top: 1944px;
+  left: 380px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-text59 {
+  top: 1956px;
+  left: 73px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text60 {
+  top: 1956px;
+  left: 435px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text61 {
+  top: 1956px;
+  left: 791px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text62 {
+  top: 1956px;
+  left: 1147px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-whats-app-image20241110at84832am3removebgpreview1 {
+  top: 1557px;
+  left: 427px;
+  width: 201px;
+  height: 357px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at84832am2removebgpreview1 {
+  top: 1560px;
+  left: 56px;
+  width: 262px;
+  height: 370px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at84832am4removebgpreview1 {
+  top: 1564px;
+  left: 793px;
+  width: 224px;
+  height: 343px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at84833a-mremovebgpreview1 {
+  top: 1564px;
+  left: 1162px;
+  width: 188px;
+  height: 354px;
+  position: absolute;
+}
+.desktop4-whats-app-image20241110at84833am11 {
+  top: 2148px;
+  left: 25px;
+  width: 404px;
+  height: 521px;
+  position: absolute;
+  border-radius: 8px;
+}
+.desktop4-whats-app-image20241110at84834am1 {
+  top: 2146px;
+  left: 451px;
+  width: 457px;
+  height: 521px;
+  position: absolute;
+  border-radius: 8px;
+}
+.desktop4-whats-app-image20241110at84834am11 {
+  top: 2145px;
+  left: 929px;
+  width: 459px;
+  height: 521px;
+  position: absolute;
+  border-radius: 8px;
+}
+.desktop4-text63 {
+  top: 2581px;
+  left: 42px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text64 {
+  top: 2581px;
+  left: 461px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-text65 {
+  top: 2575px;
+  left: 964px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Black;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop4-whats-app-image20241110at84832am1removebgpreview1 {
+  top: 1075px;
+  left: 1144px;
+  width: 224px;
+  height: 353px;
+  position: absolute;
+}
+.desktop4-rectangle262 {
+  top: 22px;
+  left: 969px;
+  width: 379px;
+  height: 70px;
+  position: absolute;
+}
+.desktop4-rectangle28 {
+  top: 2045px;
+  left: 554px;
+  width: 324px;
+  height: 64px;
+  position: absolute;
+}
+.desktop4-text66 {
+  top: 2058px;
+  left: 661px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Impact;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
